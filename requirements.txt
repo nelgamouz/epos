@@ -1,0 +1,11 @@
+# Versions of the Kaggle CPU image used for all experiments (Python 3.10.12)
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.13.1
+scikit-learn==1.2.2
+imbalanced-learn==0.12.4   # <-- fill in: python -c "import imblearn; print(imblearn.__version__)" on Kaggle
+lightgbm==4.5.0
+xgboost==2.0.3
+deap==1.4
+joblib
+matplotlib
